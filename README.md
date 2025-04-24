@@ -13,5 +13,8 @@ Hi there! 👋 I'm @CherniukAlx, a passionate developer and open-source enthusia
 
 ## Connect with Me
 
-**!GitHub **    https://github.com/CherniukAlx/CherniukAlx
+**!Website Portfolio **    https://cherniuk.ca
+
+**!Website Integration Chat Widget AI **    https://ai.cherniuk.ca
+
 **!LinkedIn ** (https://www.linkedin.com/in/oleksandr-cherniuk-b97512182/)
